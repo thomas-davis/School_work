@@ -1,0 +1,1 @@
+Simple program that takes any number of strings as inputs, and uses plotly to create a graph of word length versus frequency of occurence. I used it to make some fun graphs comparing Pat the Bunny by Dorothy Kunhardt, Harry Potter, and Ulysses by James Joyce. 
